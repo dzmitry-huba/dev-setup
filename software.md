@@ -6,3 +6,4 @@
 4. [Rectangle](https://rectangleapp.com/)
 5. [iTerm](https://iterm2.com/)
 6. [Zed Editor](https://zed.dev/)
+7. [Micro Editor](https://micro-editor.github.io/)
