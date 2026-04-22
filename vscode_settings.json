@@ -16,7 +16,7 @@
   "editor.semanticHighlighting.enabled": true,
   "editor.bracketPairColorization.enabled": false,
   "editor.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
-  "editor.lineHeight": 15,
+  "editor.lineHeight": 16,
   "editor.wordWrap": "on",
   "editor.wrappingStrategy": "advanced",
   "editor.lightbulb.enabled": "on",
