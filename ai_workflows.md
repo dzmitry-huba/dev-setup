@@ -1,3 +1,4 @@
 - Flashinfer: High-Performance GPU Kernels for Inference [repo](https://github.com/flashinfer-ai/flashinfer)
 - Superpowers: Complete software development methodology for your coding agents [repo](https://github.com/obra/superpowers)
 - Spec Kit: Build high-quality software faster [repo](https://github.com/github/spec-kit)
+- Karpahty Skills: Karpathy-Inspired Claude Code Guidelines [repo](https://github.com/forrestchang/andrej-karpathy-skills)
